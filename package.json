@@ -14,11 +14,10 @@
   },
   "keywords": [
     "preact",
-    "boilerplate",
-    "webpack"
+    "informatica"
   ],
   "license": "MIT",
-  "author": "Jason Miller <jason@developit.ca>",
+  "author": "Mika Turk <mika@mikaturk.nl>",
   "devDependencies": {
     "autoprefixer": "^6.4.0",
     "babel": "^6.5.2",
