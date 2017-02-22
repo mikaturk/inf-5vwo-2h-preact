@@ -71,6 +71,7 @@
     "webpack-dev-server": "^1.15.0"
   },
   "dependencies": {
+    "firebase": "^3.6.9",
     "preact": "^7.1.0",
     "preact-compat": "^3.0.0",
     "preact-router": "^2.0.0",
